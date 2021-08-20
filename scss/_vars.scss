@@ -1,0 +1,33 @@
+
+
+%philosopher-700 {
+  font-family: 'Philosopher-Bold', sans-serif;
+  font-weight: 700;
+}
+%roboto-500 {
+  font-family: 'Roboto-Medium', sans-serif;
+  font-weight: 500;
+}
+%roboto-400 {
+  font-family: 'Roboto-Regular', sans-serif;
+  font-weight: 400;
+}
+
+$accent-color: #DC780B;
+$default-color: rgba(21, 12, 1, 0.7);
+$title-color: #150C01;
+// @function max($numbers...) {
+//   @return m#{a}×(#{$numbers});
+// }
+// @function min($numbers...) {
+//   @return m#{i}n(#{$numbers});
+// }
+
+// %checkbox-hidden,
+// %radio-hidden {
+//   width: 1px;
+//   height: 1px;
+//   overflow: hidden;
+//   clip: rect(0 0 0 0);
+//   position: absolute;
+// }
